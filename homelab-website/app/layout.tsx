@@ -35,7 +35,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${jetbrainsMono.className} antialiased dark`}>
+      <body className={`${jetbrainsMono.className} antialiased`}>
         {children}
         <Analytics />
       </body>
