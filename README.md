@@ -2,6 +2,9 @@
 
 Terminal-style minimal dashboard. Built with Next.js 15.
 
+![Round corners on image](https://github.com/user-attachments/assets/a6517689-8f78-4f50-8b1e-2c87c3ff28b8)
+
+
 ## Features
 
 - Dark/Light (Paper Terminal) theme with persistent storage
